@@ -1,9 +1,9 @@
-public class Calculator {
+public class ArithmeticOperation {
     private double firstNo;
     private double secondNo;
     private char arithmeticSign;
 
-    public Calculator(double firsNumber, double secondNumber, char arithmeticSign) {
+    public ArithmeticOperation(double firsNumber, double secondNumber, char arithmeticSign) {
         this.firstNo = firsNumber;
         this.secondNo = secondNumber;
         this.arithmeticSign = arithmeticSign;
